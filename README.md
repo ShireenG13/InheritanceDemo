@@ -1,0 +1,2 @@
+# InheritanceDemo
+Glab Inheritance Demo
